@@ -569,7 +569,7 @@
 	"variable": [
 		{
 			"key": "submission",
-			"value": "https://api.postman.com/collections/37508454-380dd7c2-0ddb-4f83-8739-3e9f612b63b3?access_key=HEY_I_REMOVED_THE_KEY:)",
+			"value": "https://api.postman.com/collections/37508454-380dd7c2-0ddb-4f83-8739-3e9f612b63b3?access_key=HEY_I_REMOVED_THE_KEY:))",
 			"type": "string"
 		}
 	]
